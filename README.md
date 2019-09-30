@@ -8,6 +8,7 @@
 </h1>
 
 <h4 align="center">A machine-learning production forecasting system.</h4>
+<h3 align="center">BIO.</h3>
 <h5 align="center">
     To keep the company up to date on its production and billing, came up the idea of ​​creating a tool for forecasting company data helping the company strategically and preparing it for the competitive market. For this requires a system focused on controlling all areas of the company, including the level of services and / or products demanded by the market served by it.
     Given this the present system has the proposal to predict and analyze company data, informing the production needed to meet your demand, controlling the stock avoiding missing or excess parts, getting ready for possible productions, avoiding service cancellations, decreasing the default rate.
