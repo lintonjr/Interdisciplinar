@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/ppdict.png" alt="Brand" width="600"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/ppdict.png" alt="Brand" width="450"></a>
   <br>
   Prediction Prodution
   <br>
