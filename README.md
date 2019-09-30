@@ -22,8 +22,8 @@
 ## Key Features
 
 * Import database data
-  - Consulting the documentation to apply the columns.
-* Sync with forecasting and training robot
+  - Consult the documentation to apply the columns.
+* Sync between forecasted model and trained representational model.
   - This step can be automatic.
 * Populate the local database  
 * Apply corrections
