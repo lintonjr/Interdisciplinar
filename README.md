@@ -11,9 +11,7 @@
 <hr>
 <h3 align="center">BIO.</h3>
 <h5 align="justify">
-    To keep the company up to date on its production and billing, came up the idea of ​​creating a tool for forecasting company data helping the company strategically and preparing it for the competitive market. For this requires a system focused on controlling all areas of the company, including the level of services and / or products demanded by the market served by it.
-    Given this the present system has the proposal to predict and analyze company data, informing the production needed to meet your demand, controlling the stock avoiding missing or excess parts, getting ready for possible productions, avoiding service cancellations, decreasing the default rate.
-    The system consists of analyzing historical production data of the company in order to transform the data provided by the company into business analysis, Based on machine learning concepts to classifying data and predicting future.
+    Predict Production is a software which enables forecast of production, income and outcome for every business looking for a competitive edge on the market. In order to achieve such an advantage, this software steps away from traditional programming to perform a certain task. Instead, it has built in capability of learning from data stored in local or remote database. These are fed to Machine Learning model to produce pattern of events happened in the past or what is likely to happen in the future. Consequently, the predictive pattern displayed by the system will allow business managers to gain insights of operational outcome, allowing them to manipulate and asses potential impacts.
 </h5>
 
 <p align="center">
