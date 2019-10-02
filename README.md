@@ -23,6 +23,7 @@
 </p>01
 
 ![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/dashboard.jpeg)
+<h4 align="center">Dashboard screenshot.</h4>
 
 ![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/asset-01.jpeg)
 <h4 align="center">Canvas screenshot.</h4>
