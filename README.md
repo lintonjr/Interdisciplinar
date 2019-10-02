@@ -11,7 +11,7 @@
 <hr>
 <h3 align="center">BIO.</h3>
 <h5 align="justify">
-    Predict Production is a software which enables forecast of production, income and outcome for every business looking for a competitive edge on the market. In order to achieve such an advantage, this software steps away from traditional programming to perform a certain task. Instead, it has built in capability of learning from data stored in local or remote database. These are fed to Machine Learning algorithm to produce pattern of events happened in the past or what is likely to happen in the future. Consequently, the predictive pattern displayed by the system will allow business managers to gain insights of operational outcome, allowing them to manipulate and asses potential impacts.
+    Predict Production is a software which enables forecast of production, income and outcome for every business looking for a competitive edge on the market. In order to achieve such an advantage, this software steps away from traditional programming to perform a certain task. Instead, it has built in capability of learning from data stored in local or remote database. These are fed to Machine Learning algorithm to generate pattern of events happened in the past or what is likely to happen in the future. Consequently, the predictive pattern displayed by the system will allow business managers to gain insights of operational outcome, allowing them to manipulate and asses potential impacts.
 </h5>
 
 <p align="center">
