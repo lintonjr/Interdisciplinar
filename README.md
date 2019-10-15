@@ -20,7 +20,7 @@
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
-</p>01
+</p>
 
 ![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/dashboardPredictProdution.png)
 <h4 align="center">Dashboard screenshot.</h4>
