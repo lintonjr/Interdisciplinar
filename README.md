@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/ppdict.png" alt="Brand" width="450"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/PredictProdution.png" alt="Brand" width="450"></a>
   <br>
   Predict Prodution
   <br>
@@ -22,7 +22,7 @@
   <a href="#license">License</a>
 </p>01
 
-![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/dashboard.jpeg)
+![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/dashboardPredictProdution.png)
 <h4 align="center">Dashboard screenshot.</h4>
 
 ![screenshot](https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/asset-01.jpeg)
