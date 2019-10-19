@@ -30,7 +30,7 @@
 <h4 align="center">Canvas screenshot.</h4>
 
 ## Steps
-<img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/canvas-snapshot.jpeg" alt="Canvas Snapshot" width="200">
+<img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/canvas-snapshot.jpeg" alt="Canvas Snapshot" width="200"> | <img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/personas.jpeg" alt="Personas" width="200">
 
 
 ## Key Features
