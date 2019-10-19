@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/PredictProdution.png" alt="Brand" width="450"></a>
+  <img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/PredictProdution.png" alt="Brand" width="450">
   <br>
   Predict Prodution
   <br>
@@ -30,7 +30,7 @@
 <h4 align="center">Canvas screenshot.</h4>
 
 ## Steps
-<a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/PredictProdution.png" alt="Brand" width="200"></a>
+<img src="https://raw.githubusercontent.com/lintonjr/Interdisciplinar/master/assets/PredictProdution.png" alt="Brand" width="200">
 
 
 ## Key Features
